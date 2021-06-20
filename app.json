@@ -1,0 +1,12 @@
+{
+  "name": "sahyogi",
+  "displayName": "sahyogi",
+  "expo": {
+    "name": "sahyogi",
+    "slug": "sahyogi",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
